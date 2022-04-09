@@ -7,11 +7,11 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
 
-### Connect with me:
+<!-- ### Connect with me:
 
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/daniel-ha%C5%A1ek-00705517b/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/daniel-ha%C5%A1ek-00705517b/#gh-dark-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/daniel-ha%C5%A1ek-00705517b/#gh-dark-mode-only) -->
 
 ### Languages and Tools:
 
